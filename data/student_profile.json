@@ -1,0 +1,10 @@
+{
+  "student_id": "2023UCA1911",
+  "name": "Rishit Rana",
+  "branch": "CSAI",
+  "branch_group": "CSE",
+  "graduation_year": 2027,
+  "cgpa": 7.4,
+  "interests": ["SDE", "ML", "Backend"],
+  "preferred_locations": ["India", "Remote"]
+}

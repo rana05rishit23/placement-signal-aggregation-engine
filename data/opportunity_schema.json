@@ -1,0 +1,14 @@
+{
+  "opportunity_id": "test_google_swe_intern_2026",
+  "company": "Google",
+  "role": "Software Engineering Intern",
+  "type": "Internship",
+  "eligible_branches": ["CSE", "IT", "CSAI"],
+  "eligible_batches": [2026, 2027],
+  "min_cgpa": 7.0,
+  "location": "Bangalore",
+  "deadline": "2026-02-10",
+  "source": "WhatsApp",
+  "source_url": "https://careers.google.com",
+  "raw_text_hash": "abc123"
+}

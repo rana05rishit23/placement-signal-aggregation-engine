@@ -1,0 +1,22 @@
+[
+  {
+    "opportunity_id": "google_role_software_developer_intern_batch_023096",
+    "company": "Google Role",
+    "role": "Software Developer Intern Batch",
+    "type": "Internship",
+    "eligible_branches": [],
+    "eligible_batches": [
+      2024,
+      2025,
+      2026,
+      2027,
+      2028
+    ],
+    "min_cgpa": null,
+    "location": null,
+    "deadline": null,
+    "source": "WhatsApp",
+    "source_url": null,
+    "raw_text_hash": "023096d4c986fa78251c5e6badb1488c"
+  }
+]
